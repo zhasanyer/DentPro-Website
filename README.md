@@ -1,7 +1,5 @@
 # DentPro — Dental Clinic Website
 
-# DentPro — Dental Clinic Website
-
 **Project Topic:** A 4-page responsive website for a fictional dental clinic, built with semantic HTML5 and hand-written CSS (no frameworks).
 
 **Deployed URL:** https://dentproasik3.netlify.app/
