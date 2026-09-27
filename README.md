@@ -2,7 +2,7 @@
 
 **Project Topic:** A 4-page responsive website for a fictional dental clinic, built with semantic HTML5 and hand-written CSS (no frameworks).
 
-**Deployed URL:** [https://dentproasik3.netlify.app/](https://dentprowebtasik3.netlify.app/](https://dentprowebtasik3.netlify.app/)
+**Deployed URL:** https://dentprowebtasik3.netlify.app
 
 ## Team Members & Page Ownership
 
