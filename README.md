@@ -1,8 +1,22 @@
 # DentPro — Dental Clinic Website
 
-A 4-page responsive website for a fictional dental clinic, built with semantic HTML5 and hand-written CSS (no frameworks).
+# DentPro — Dental Clinic Website
+
+**Project Topic:** A 4-page responsive website for a fictional dental clinic, built with semantic HTML5 and hand-written CSS (no frameworks).
+
+**Deployed URL:** https://dentproasik3.netlify.app/
+
+## Team Members & Page Ownership
+
+| Team Member | Primary Page |
+|---|---|
+| Sanzhar Zhagiparov | Home (`index.html`) |
+| Alikhan Tanatov | Services (`services.html`) |
+| Kemal Urazmukhambet | Information (`about.html`) |
+| Ramazan Ashirbay | Booking (`contact.html`) |
 
 ## Project Structure
+
 
 ```
 dentpro/
