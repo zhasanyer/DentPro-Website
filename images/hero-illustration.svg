@@ -1,0 +1,15 @@
+<svg viewBox="0 0 420 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a smiling tooth character with a dental mirror">
+  <circle cx="210" cy="180" r="160" fill="#e6f5f6"/>
+  <ellipse cx="210" cy="330" rx="120" ry="14" fill="#d7ecee"/>
+  <path d="M210 90c-40 0-60 26-86 26-40 0-66 34-66 80 0 52 20 78 26 118 6 32 14 92 46 92 26 0 26-58 40-98 8-20 14-32 40-32s32 12 40 32c14 40 14 98 40 98 32 0 40-60 46-92 6-40 26-66 26-118 0-46-26-80-66-80-26 0-46-26-86-26z" fill="#ffffff" stroke="#0f7d8a" stroke-width="6"/>
+  <circle cx="178" cy="170" r="10" fill="#0f7d8a"/>
+  <circle cx="242" cy="170" r="10" fill="#0f7d8a"/>
+  <path d="M180 205c14 16 46 16 60 0" fill="none" stroke="#ff7a59" stroke-width="7" stroke-linecap="round"/>
+  <g>
+    <circle cx="330" cy="90" r="28" fill="#ffffff" stroke="#0f7d8a" stroke-width="5"/>
+    <rect x="322" y="112" width="16" height="60" rx="8" fill="#0f7d8a" transform="rotate(20 330 140)"/>
+  </g>
+  <circle cx="70" cy="80" r="10" fill="#ff7a59"/>
+  <circle cx="95" cy="55" r="6" fill="#0f7d8a"/>
+  <circle cx="345" cy="230" r="8" fill="#ff7a59"/>
+</svg>
